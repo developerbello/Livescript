@@ -1,13 +1,10 @@
 # Developer Advice
 
-- How to succeed learning how to code
-- How to fail at solving problem
-
 How to succeed learning how to code
 
 `Ibrahim wants to become a software developer, but didn't have a clear goal at the beginning of his journey(No direction)`
 
-FIX: 
+__FIX__: 
 - Set a specific, measurable and realistic goal.
 - Know exactly why you're learning to code ex. Switching careers, Finding a better job?
 - Imagine a big project you want to be able to build!
@@ -15,13 +12,13 @@ FIX:
 
 `He would just copy and paste the code without caring about how it works.`
 
-FIX:
+__FIX__:
 - Understand the code that you're studing and typing.
 - Don't just copy and paste.
 
 `He didn't reinforce what is learning, by doing small challenges or taking notes.`
 
-FIX:
+__FIX__:
 - After you learn a new feature, or concept use it immediately.
 - Take notes.
 - Challenge yourself and practice with small challenges.
@@ -35,13 +32,13 @@ FIX:
 
 `He quickly get frustratated when his code was not perfectly clean, or effective.`
 
-FIX:
+__FIX__:
 - Don't get stuck trying to write perfect code!
 - Just write ton of code, no matter the quality. You can alway refactor your codes later.
 
 `He lost motivation because he though he could never know everything.`
 
-FIX:
+__FIX__:
 - Embrace the fact that you will never know everything.
 - Just focus on what need to achieve your goal!
 
@@ -53,5 +50,5 @@ FIX:
 
 `After finishing a couple of courses, he thought he's now a web developer and could start applying for jobs.`
 
-FIX
+__FIX__:
 - The biggest misconceptions that people have courses are an amazing start point, but are only the begining of the journey.

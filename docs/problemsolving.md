@@ -21,8 +21,7 @@ FIX:
 
 FOR EXAMPLE:
 
-<b>Make sure you 100% understand the problem, ask the right question to get a clear picture of the solution.
-</b>
+__Make sure you 100% understand the problem, ask the right question to get a clear picture of the solution.__
 ```
 Project Manager: We need a function that reverses whatever is passed into it.
 
@@ -37,18 +36,18 @@ Project Manager: We need a function that reverses whatever is passed into it.
 6. How to reverse a number, a string, or an array.
 ```
 
-<b> Divide & Conquer: Break a problem smaller into sub-problems. </b>
+__Divide & Conquer: Break a problem smaller into sub-problems.__
 - Check if argument is a number, string, or an array.
 - Implement reversing a string.
 - Implement reversing a number.
 - Implement reversing an array.
 - Return reversed value.
 
-<b>Don't be afraid to do as much research as you have to.</b>
+__Don't be afraid to do as much research as you have to.__
 - Make use of platform such as `StackOverflow, Google Search engine, Mozilla` to make your research on how to do stuffs.
 - Example: How to check the value type of an array. same implies to numbers and strings.
 
-<b>For bigger problems, write psedo-code before writing the actual code.</b>
+__For bigger problems, write psedo-code before writing the actual code.__
 ```
 function reverse (value):
   if value type !string && !number && !array:
