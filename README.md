@@ -7,7 +7,8 @@ Today emerged the beginning of a new dev career journey. He promises to become a
 The folder structure consists of javaSript file scripts which codebases includes JavaScript both basics and core concepts and as well history and best practises to learn and become a better software developer. Check out the below list to access topics and concepts all written in markdowns.
 
 - [JavaScript](https://github.com/developerbello/Livescript/blob/main/jsreviews.md)
-- [Developer Advice](https://github.com/developerbello/Livescript/blob/main/devadvice.md)
+- [Developer Advice](https://github.com/developerbello/Livescript/blob/main/docs/devadvice.md)
+- [Problem Solving Skills For Developers](https://github.com/developerbello/Livescript/blob/main/docs/problemsolving.md)
 
 # Author
 
